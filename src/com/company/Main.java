@@ -11,6 +11,5 @@ public class Main {
 
         System.out.println("test 3 new branch2");
 
-        System.out.println("branch2");
     }
 }
